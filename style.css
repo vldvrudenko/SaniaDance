@@ -1,0 +1,57 @@
+nav {
+    background-color: chartreuse;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.navMiddleSection {
+    display: flex;
+    justify-content: space-between;
+    width: 315px;
+    padding-top: 3px;
+    color: red;
+    font-size: 20px;
+}
+
+.navImg {
+    height: 25px;
+    width: 25px;
+}
+
+body {
+    margin: auto;
+    width: 1000px;
+}
+
+.headerImg {
+    width: 350px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+.mainMiddle {
+    display: flex;
+}
+.saniasClubs{
+    text-align: center;
+    color:crimson
+}
+footer{
+    background-color: chartreuse;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    padding: 10px;
+}
